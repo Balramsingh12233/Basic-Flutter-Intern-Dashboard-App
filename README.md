@@ -10,7 +10,8 @@ This is a basic intern dashboard app made using Flutter, with mock data to simul
 - Clean and responsive UI
 
 ## 📸 Screenshots
-(Add screenshots folder and insert here)
+  <img width="446" height="968" alt="Screenshot 2025-08-05 230450" src="https://github.com/user-attachments/assets/c1dfc045-4a71-46ba-9d68-7d040453f8f4" />
+
 
 ## 🚀 How to Run
 - Clone the repo
